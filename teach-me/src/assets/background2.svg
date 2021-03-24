@@ -1,0 +1,24 @@
+<svg width="360" height="740" viewBox="0 0 360 740" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="360" height="740" fill="white"/>
+<rect width="360" height="740" fill="url(#paint0_linear)"/>
+<ellipse cx="324.964" cy="730.084" rx="47.9642" ry="48.9156" fill="#FFB5B2"/>
+<ellipse rx="30.0397" ry="31.1775" transform="matrix(0.706771 0.707443 -0.706771 0.707442 362.733 681.308)" fill="#FFCE68"/>
+<ellipse rx="29.5887" ry="29.2512" transform="matrix(1 1.75012e-07 1.7468e-07 -1 364.806 742.78)" fill="#F58576"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M332.218 681.547C332.873 681.503 333.533 681.48 334.199 681.48C350.722 681.48 364.117 695.356 364.117 712.473C364.117 712.797 364.112 713.119 364.102 713.44C363.448 713.484 362.787 713.507 362.122 713.507C345.599 713.507 332.204 699.631 332.204 682.514C332.204 682.191 332.209 681.868 332.218 681.547Z" fill="#F58576"/>
+<circle cx="34" cy="-5.99998" r="90" fill="#FFB5B2"/>
+<circle cx="113" cy="10" r="45" fill="#715EF6"/>
+<circle r="22.5" transform="matrix(1 1.74846e-07 1.74846e-07 -1 80.5 0.500004)" fill="#FFCE68"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="180" y1="-133" x2="180" y2="764" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D4CEFF"/>
+<stop offset="0.9999" stop-color="#FEFEFF" stop-opacity="0.0208333"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="360" height="740" fill="white"/>
+</clipPath>
+</defs>
+</svg>
